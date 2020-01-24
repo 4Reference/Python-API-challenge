@@ -34,13 +34,13 @@ Your final notebook must:
 
 #### Observations
 For Part I, you must include a written description of three observable trends based on the data.
-1) It may seem obvious, but sometimes it is good to use data to re-enforce standard knowledge. Based on Max Temp vs latitude it does seem that it generally gets warmer the closer one gets to the equator.
+1)It may seem obvious, but sometimes it is good to use data to re-enforce standard knowledge. Based on Max Temp vs latitude it does seem that it generally gets warmer the closer one gets to the equator.
 
 2)The lateral lines at specific break points in the cloudiness percentages (20%,40%,75%,90%) are likely due to rounding, guestimation and subjective metrics used to determine cloudiness. Meteorlogical standards seem to not use straight percentage:
 "Cloud amount is reported in oktas or eighths with the additional convention that:
 0 oktas represents the complete absence of cloud 1 okta represents a cloud amount of 1 eighth or less, but not zero 7 oktas represents a cloud amount of 7 eighths or more, but not full cloud cover 8 oktas represents full cloud cover with no breaks 9 oktas represents sky obscured by fog or other meteorological phenomena"
 
-3) I thought humidity would have a more disperse pattern averaging around 50% but humidity at most latitudes seems to record at higher than 50%. So looking more into there is a washington post article about why we should stop using percent humidity to describe humidity and instead use relative humidity that is relative to temperature.
+3)I thought humidity would have a more disperse pattern averaging around 50% but humidity at most latitudes seems to record at higher than 50%. So looking more into there is a washington post article about why we should stop using percent humidity to describe humidity and instead use relative humidity that is relative to temperature.
 
 ### Vacationpy
 Work completed in folder named same. From the Readme.md:
